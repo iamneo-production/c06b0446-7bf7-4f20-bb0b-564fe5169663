@@ -1,4 +1,4 @@
-package com.example.security.jwt;
+package com.examly.security.jwt;
 
 
 import com.example.security.services.UserDetailsImpl;

@@ -1,4 +1,4 @@
-package com.example.security.services;
+package com.examly.security.services;
 
 import java.util.List;
 import java.util.Map;

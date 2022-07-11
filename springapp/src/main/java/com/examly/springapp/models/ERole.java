@@ -1,4 +1,4 @@
-package com.example.models;
+package com.examly.models;
 
 public enum ERole {
 	ROLE_CUSTOMER,

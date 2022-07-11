@@ -1,4 +1,4 @@
-package com.example.dto;
+package com.examly.dto;
 
 public class jobDTO {
 

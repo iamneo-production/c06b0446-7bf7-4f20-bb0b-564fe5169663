@@ -1,4 +1,4 @@
-package com.example.controllers;
+package com.examly.controllers;
 
 import com.example.models.ERole;
 import com.example.models.Role;

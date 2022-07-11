@@ -1,4 +1,4 @@
-package com.example.payload.response;
+package com.examly.payload.response;
 
 
 public class MessageResponse {

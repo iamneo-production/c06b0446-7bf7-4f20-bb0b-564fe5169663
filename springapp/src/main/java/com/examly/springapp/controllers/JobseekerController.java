@@ -1,4 +1,4 @@
-package com.example.controllers;
+package com.examly.controllers;
 
 import com.example.dto.jobseekerDTO;
 import com.example.models.Jobseeker;

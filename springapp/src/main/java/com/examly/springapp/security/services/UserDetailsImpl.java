@@ -1,4 +1,4 @@
-package com.example.security.services;
+package com.examly.security.services;
 
 
 import com.example.models.User;
